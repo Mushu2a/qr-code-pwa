@@ -10,5 +10,5 @@ See it online at: [qr-code-pwa.firebaseapp.com/](https://qr-code-pwa.firebaseapp
 
 The resources used to create this app:
 
-- [Your First Progressive Web App  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+- [Your First Progressive Web App - Google Developers](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 - [jeromeetienne/jquery-qrcode: qrcode generation standalone (doesn't depend on external services)](https://github.com/jeromeetienne/jquery-qrcode)
